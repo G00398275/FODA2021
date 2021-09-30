@@ -5,6 +5,8 @@ This repository contains an overview of the matplotlib.pyplot package in a Jupyt
 
 ## You can view the notebook by clicking the badge below
 
+https://nbviewer.jupyter.org/github/G00398275/FODA2021/blob/main/pyplot.ipynb
+
 
 ## How to run the notebook
 
