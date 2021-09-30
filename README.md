@@ -9,8 +9,7 @@ This repository contains an overview of the matplotlib.pyplot package in a Jupyt
 
 ## You can view the notebook in dynamic form by clicking the badge below
 
-[![Binder](https://mybinder.org/badge_logo.svg)]
-(https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=pyplot.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=pyplot.ipynb)
 
 ## How to run the notebook
 
