@@ -1,2 +1,7 @@
 numpy
 matplotlib
+requests
+re
+datetime
+pandas
+urllib
