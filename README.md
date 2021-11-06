@@ -1,17 +1,27 @@
-# Overview of the matplotlib.pyplot Python package
+# Fundamentals of Data Analysis Assessment - Winter 2021
+# Galway Mayo Insitute of Technology
+# Author: Ross Downey (G00398275)
+# Lecturer: Dr. Ian McLoughlin
+
+This repository exists as part of the assessment of the "Fundamentals of Data Analysis" module for the Higher Diploma in Computer Science in Data Analytics.  
+The repository contains two Jupyter notebooks, pyplot.ipynb and cao.ipynb. Pyplot.ipynb provides an overview of the matplotlib.pyplot package in Python. Cao.ipynb is a notebook which loads the points from the CAO website and examines the differences between the years 2019 / 2020 / 2021 using pandas and plots. More details have been included below.  
+A requirements.txt file has also been added to run the notebooks with minimal configuration.
+
+
+## Overview of the matplotlib.pyplot Python package
 ***
 
 This repository contains an overview of the matplotlib.pyplot package in a Jupyter notebook
 
-## You can view the notebook in static form by clicking the badge below
+### You can view the notebook in static form by clicking the badge below
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/G00398275/FODA2021/blob/main/pyplot.ipynb)
 
-## You can view the notebook in dynamic form by clicking the badge below
+### You can view the notebook in dynamic form by clicking the badge below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=pyplot.ipynb)
 
-## How to run the notebook
+### How to run the notebook
 
 1. Download [Anaconda](https://www.anaconda.com/)
 2. Download [CMDER](https://cmder.net/)
