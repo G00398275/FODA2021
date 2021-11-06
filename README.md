@@ -20,12 +20,6 @@ This Jupyter notebook contains an overview of the matplotlib.pyplot package
 ### You can view the notebook in dynamic form using binder by clicking the badge below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=pyplot.ipynb)
-
-### How to run the notebook
-
-1. Download [Anaconda](https://www.anaconda.com/)
-2. Download [CMDER](https://cmder.net/)
-3. Run jupyter lab
 ***
 
 ## CAO Points Notebook
@@ -35,11 +29,12 @@ This Jupyter notebook contains an overview of how to load CAO points from the CA
 
 ### You can view the notebook in static form using nbviewer by clicking the badge below
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/G00398275/FODA2021/blob/main/cao.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]
+(https://nbviewer.org/github/G00398275/FODA2021/blob/main/cao.ipynb)
 
 ### You can view the notebook in dynamic form using binder by clicking the badge below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=cao.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?labpath=cao.ipynb)
 ***
 
 ## How to run the notebooks
