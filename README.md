@@ -29,8 +29,7 @@ This Jupyter notebook contains an overview of how to load CAO points from the CA
 
 ### You can view the notebook in static form using nbviewer by clicking the badge below
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]
-(https://nbviewer.org/github/G00398275/FODA2021/blob/main/cao.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00398275/FODA2021/blob/main/cao.ipynb)
 
 ### You can view the notebook in dynamic form using binder by clicking the badge below
 
