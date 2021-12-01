@@ -1,0 +1,472 @@
+,Course Code,Course,EOS_2018_7_6
+0,AL601,Electronics and Computer Engineering,240.0
+1,AL602,Mechanical Engineering,201.0
+2,AL604,Civil Engineering,243.0
+3,AL630,Pharmacy Technician,306.0
+4,AL631,Dental Nursing,307.0
+5,AL632,Science (Bioscience/Chemistry),216.0
+6,AL650,Business,200.0
+7,AL651,Music and Instrument Technology,
+8,AL652,Business in Equine,
+9,AL660,Culinary Arts,
+10,AL661,Bar Supervision,150.0
+11,AL663,Business (Sport and Recreation),181.0
+12,AL701,ICT Engineering: Computer Eng or Network Mgmnt or Electronic Comms,210.0
+13,AL704,Computer Engineering,205.0
+14,AL705,Software Development (Mobile Apps and Connected Devices),207.0
+15,AL710,Mechanical Engineering,218.0
+16,AL711,Mechanical Engineering and Renewable Energy,252.0
+17,AL712,Mechatronics,283.0
+18,AL713,Engineering (Common Entry to Mechanical/Renewable/Mechatronic Eng),223.0
+19,AL721,Civil Engineering,245.0
+20,AL730,Biotechnology,206.0
+21,AL731,Veterinary Nursing,398.0
+22,AL733,Forensic Toxicology,215.0
+23,AL734,Pharmaceutical Sciences (Drug Development and Analysis),214.0
+24,AL751,Digital Marketing,222.0
+25,AL761,Hotel and Leisure Management,208.0
+26,AL763,Graphic Design (Portfolio Required),783.0
+27,AL764,Early Years Care and Education,270.0
+28,AL765,Applied Social Studies in Social Care,278.0
+29,CW006,Business (Wexford),129.0
+30,CW017,Applied Social Studies - Professional Social Care (Wexford),162.0
+31,CW027,Sustainable Farm Management and Agribusiness (Wexford),222.0
+32,CW037,Business (with options - Wexford),195.0
+33,CW046,Computing (Wexford),
+34,CW047,Visual Communications and Design (Wexford),198.0
+35,CW057,Art (Portfolio - Wexford),700.0
+36,CW106,Physiology and Health Science,454.0
+37,CW107,Analytical Science,213.0
+38,CW116,Pharmacy Technician Studies,287.0
+39,CW117,Biosciences,214.0
+40,CW126,Science - Applied Biology or Applied Chemistry,198.0
+41,CW206,Computing - Applications or Programming,200.0
+42,CW207,Software Development,251.0
+43,CW217,Information Technology Management,234.0
+44,CW227,Cybercrime and IT Security,251.0
+45,CW407,Architectural Technology,186.0
+46,CW417,Construction Management with Building Services,226.0
+47,CW427,Civil Engineering,200.0
+48,CW507,Aircraft Systems,281.0
+49,CW517,Mechanical Engineering,264.0
+50,CW527,Electronic Engineering,217.0
+51,CW547,TV and Media Production,326.0
+52,CW706,Legal Studies,202.0
+53,CW707,Industrial Design,207.0
+54,CW717,Applied Social Studies - Professional Social Care,240.0
+55,CW807,Sports Coaching and Business Management - GAA (Portfolio),700.0
+56,CW817,Sports Coaching and Business Management - Rugby (Portfolio),700.0
+57,CW827,Sports Coaching and Business Management - Soccer (Portfolio),700.0
+58,CW906,Business,171.0
+59,CW917,Business (with options),208.0
+60,CW926,Business with Law,208.0
+61,CW927,Business Administration,242.0
+62,CW936,Accounting,207.0
+63,PC402,Humanities,
+64,PC404,Applied Social Studies in Social Care,
+65,CR001,Applied Physics and Instrumentation,297.0
+66,CR006,Applied Biosciences (Degree award options),360.0
+67,CR007,Analytical and Pharmaceutical Chemistry,292.0
+68,CR010,Agriculture (Year 1 - 2 days in Clonakilty Agri College & 3 days in CIT),289.0
+69,CR016,Software Development,270.0
+70,CR021,Business (Common Entry - Degree award options),240.0
+71,CR022,Business Administration,192.0
+72,CR031,Social Care,326.0
+73,CR032,Recreation and Leisure Management,260.0
+74,CR035,Community Development,117.0
+75,CR041,Tourism Management,185.0
+76,CR042,Hospitality Management,182.0
+77,CR046,Automotive Technology and Management,200.0
+78,CR051,Civil Engineering,226.0
+79,CR052,Construction (Degree award options),225.0
+80,CR053,Interior Architecture,252.0
+81,CR055,Environmental Engineering,226.0
+82,CR061,Electronic Engineering,251.0
+83,CR062,Electrical Engineering,250.0
+84,CR071,Mechanical Engineering,270.0
+85,CR075,Biomedical Engineering,312.0
+86,CR090,Architectural Technology,244.0
+87,CR094,Nautical Science at National Maritime College of Ireland,257.0
+88,CR095,Marine Engineering at National Maritime College of Ireland,241.0
+89,CR300,Physical Sciences (Common Entry),300.0
+90,CR620,Early Years Education,341.0
+91,CR640,Culinary Arts,197.0
+92,CR650,Beverage Industry Management,120.0
+93,CR655,Culinary Studies,139.0
+94,CR657,Hospitality Studies,154.0
+95,CR805,Marine Electrotechnology at National Maritime College of Ireland,244.0
+96,CR888,Information Technology,280.0
+97,CT110,Computing in Information Technology,130.0
+98,CT116,Information Technology,170.0
+99,DS602,Computing and Multimedia,
+100,DS603,Computing and Multimedia,206.0
+101,DS701,Business,120.0
+102,DS702,Computing and Multimedia,200.0
+103,DB513,Business,190.0
+104,DB522,Business in Accounting,197.0
+105,DB528,Applied Social Care,129.0
+106,DB533,Business in Marketing,187.0
+107,DB534,Sound Engineering and Music Production,164.0
+108,DB563,Arts,136.0
+109,DB571,Business Studies,146.0
+110,DB572,Business in Accounting,117.0
+111,DB573,Business in Marketing,135.0
+112,DB574,Business in Information Technology,144.0
+113,DB575,Social Studies,158.0
+114,DB576,Film and Media,
+115,DB580,Legal Studies,122.0
+116,DB581,Legal and Business Studies,195.0
+117,DB582,Legal Studies,144.0
+118,DB583,Legal and Business Studies,172.0
+119,DT002,Engineering Reliability Management,226.0
+120,DT003,Automation Engineering,270.0
+121,DT004,Civil Engineering,242.0
+122,DT005,Building Engineering,231.0
+123,DT006,Mechanical Engineering,301.0
+124,DT007,Automotive Management and Technology,242.0
+125,DT008,Electronics and Communications Engineering,242.0
+126,DT009,Electrical and Control Engineering,253.0
+127,DT010,Electrical Services Engineering,233.0
+128,DT011,Aviation Technology,341.0
+129,DT080,Networking Technologies,241.0
+130,DT097,Engineering (General Entry),371.0
+131,DT104,Auctioneering Valuation and Estate Agency,300.0
+132,DT169,Timber Product Technology,234.0
+133,DT212,Science (General Entry),390.0
+134,DT219,Ophthalmic Dispensing,302.0
+135,DT259,Biosciences,400.0
+136,DT260,Industrial and Environmental Physics,267.0
+137,DT261,Medicinal Chemistry and Pharmaceutical Sciences,371.0
+138,DT303,Marketing,340.0
+139,DT315,Business Studies,330.0
+140,DT324,Business Management,330.0
+141,DT360,Retail Management and Marketing,296.0
+142,DT406,Tourism Management,250.0
+143,DT408,Hospitality Management,250.0
+144,DT411,Leisure Management,254.0
+145,DT418,Baking and Pastry Arts Management,242.0
+146,DT424,Food Science and Management,270.0
+147,DT425,Pharmacy Technician Studies,316.0
+148,DT426,Bar and Restaurant Management,242.0
+149,DT432,Culinary Arts (Professional Culinary Practice),241.0
+150,DT598,Visual Merchandising and Display,517.0
+151,DL701,Business - Applied Entrepreneurship,112.0
+152,GC240,Computing (Cork),164.0
+153,GC265,Journalism (Cork),118.0
+154,GC306,International Hospitality Management (Limerick),338.0
+155,GC311,Business (Limerick),175.0
+156,GC316,Business (Limerick),379.0
+157,GC335,Computing (Limerick),207.0
+158,GC340,Computing (Limerick),393.0
+159,GC406,International Hospitality Management (Dublin),173.0
+160,GC410,Marketing (Dublin),135.0
+161,GC411,Business (Dublin),155.0
+162,GC416,Business (Dublin),
+163,GC425,Legal Studies (Dublin),147.0
+164,GC435,Computing (Dublin),144.0
+165,GC440,Computing (Dublin),142.0
+166,GC460,Music Production for Games (Portfolio required - Dublin),
+167,GC465,Journalism (Dublin),136.0
+168,GC466,Film and TV Production (Dublin),
+169,GC470,Photographic Media (Dublin),
+170,GC475,Photography (Dublin),127.0
+171,GC487,Animation (Dublin),150.0
+172,GC490,Interior Design (Dublin),127.0
+173,GC495,Fashion Design (Dublin),155.0
+174,BN001,Electronics and Computer Engineering,198.0
+175,BN002,Computing (Information Technology),186.0
+176,BN003,Business,180.0
+177,BN009,Mechatronic Engineering,181.0
+178,BN010,Business and Information Technology,191.0
+179,BN011,Applied Social Studies in Social Care,250.0
+180,BN012,Computer Engineering,182.0
+181,BN013,Computing (Information Technology),108.0
+182,BN014,Business,192.0
+183,BN015,Engineering (Common Entry with Award options),137.0
+184,BN016,Business (Common Entry with Award options),137.0
+185,BN017,International Business,188.0
+186,BN020,Sports Management and Coaching,230.0
+187,BN021,Creative Digital Media,
+188,BN022,Horticulture,189.0
+189,BN025,Community and Youth Development,112.0
+190,BN030,Early Childhood Care and Education,210.0
+191,BN034,Digital Forensics and Cyber Security,188.0
+192,BN040,Digital Marketing,187.0
+193,TA006,Culinary Arts,100.0
+194,TA014,Advertising and Marketing Communications,620.0
+195,TA015,International Hospitality and Tourism Management,140.0
+196,TA106,Business (Common entry),162.0
+197,TA111,Accounting and Finance,170.0
+198,TA113,Management,144.0
+199,TA114,Marketing,163.0
+200,TA116,International Business,191.0
+201,TA117,Digital Marketing,121.0
+202,TA201,Electronic Engineering,200.0
+203,TA203,Mechanical Engineering,159.0
+204,TA213,Mechanical Engineering,226.0
+205,TA215,Sustainable Energy and Environmental Engineering,198.0
+206,TA216,Electronic Engineering,214.0
+207,TA218,Biomedical Design,203.0
+208,TA219,Engineering Software,244.0
+209,TA301,Applied Biology,189.0
+210,TA302,Computing,205.0
+211,TA311,Bioanalysis,179.0
+212,TA312,Computing,189.0
+213,TA313,Information Technology Management,198.0
+214,TA314,Pharmaceutical Science,187.0
+215,TA315,DNA and Forensic Analysis,205.0
+216,TA316,Sports Science and Health,280.0
+217,NC102,Computing in Applications and Support,234.0
+218,NC103,Business,270.0
+219,NC104,Business Computing,233.0
+220,NM701,Montessori Education,108.0
+221,TR801,Dental Nursing,357.0
+222,TR802,Dental Hygiene,424.0
+223,TR803,Dental Technology,336.0
+224,DK615,Front Office Management and Business Administration,
+225,DK620,Computing and Business,
+226,DK640,Applied Engineering,
+227,DK650,Culinary Arts,104.0
+228,DK651,Hospitality Studies,
+229,DK710,Business and Management,120.0
+230,DK711,Business and Technology,210.0
+231,DK712,Digital Marketing Communication and Public Relations,205.0
+232,DK721,Computing,140.0
+233,DK731,Architectural Technology,200.0
+234,DK732,Construction Management,157.0
+235,DK740,Engineering - Electrical and Electronic Systems,184.0
+236,DK742,Engineering - Mechanical Engineering,140.0
+237,DK744,Engineering - Civil Engineering,183.0
+238,DK750,Hospitality Management,190.0
+239,DK752,Event Management,168.0
+240,DK753,Culinary Arts,198.0
+241,DK763,Sport Exercise and Enterprise,204.0
+242,DK767,Community Youth Work,240.0
+243,DK769,Media Arts and Technologies,140.0
+244,DK770,Theatre & Film Practice,194.0
+245,DK781,Science - Applied Bioscience,191.0
+246,DK783,Science - Pharmaceutical Science,169.0
+247,DK784,Veterinary Nursing,379.0
+248,GA160,Business,161.0
+249,GA170,Business,245.0
+250,GA171,Business Information Systems,249.0
+251,GA172,Rural Enterprise and Agri-Business - Mountbellew Campus,274.0
+252,GA174,Marketing and Sales,281.0
+253,GA175,Finance,280.0
+254,GA176,Business with Entrepreneurship,273.0
+255,GA272,Heritage Studies,161.0
+256,GA273,Contemporary Art,215.0
+257,GA274,Design,225.0
+258,GA360,Business in Tourism,189.0
+259,GA361,Culinary Arts,198.0
+260,GA362,Hotel and Hospitality Operations,171.0
+261,GA364,Heritage Studies,254.0
+262,GA370,Hotel and Catering Management,164.0
+263,GA375,Retail Management,164.0
+264,GA376,Event Management with Public Relations,200.0
+265,GA377,International Tourism Management,162.0
+266,GA378,Culinary and Gastronomic Science,189.0
+267,GA470,Construction Management,242.0
+268,GA471,Quantity Surveying and Construction Economics,206.0
+269,GA472,Architectural Technology,228.0
+270,GA473,Civil Engineering,241.0
+271,GA570,Software and Electronic Engineering,207.0
+272,GA670,Mechanical Engineering,260.0
+273,GA673,Energy Engineering,242.0
+274,GA674,Biomedical Engineering,308.0
+275,GA675,Agricultural Engineering,280.0
+276,GA676,Engineering (Common entry to Manu/Agri/Biomed/Energy/Mech Eng),290.0
+277,GA677,Manufacturing Engineering Design,216.0
+278,GA770,Applied Freshwater and Marine Biology,280.0
+279,GA771,Applied Biology and Biopharmaceutical Science,280.0
+280,GA772,Chemical and Pharmaceutical Science,280.0
+281,GA773,Physics and Instrumentation,305.0
+282,GA774,Science (Undenominated),280.0
+283,GA775,Computing in Software Development,260.0
+284,GA776,Computing and Digital Media,240.0
+285,GA777,Agriculture and Environmental Management - Mountbellew Campus,290.0
+286,GA860,Business - Mayo Campus,
+287,GA862,History and Geography - Mayo Campus,186.0
+288,GA869,Business with Administration and ICT Skills - Mayo Campus,
+289,GA870,Outdoor Education and Leisure - Mayo Campus,171.0
+290,GA871,Early Childhood Care and Education - Mayo Campus,200.0
+291,GA872,Culture and Environment - Mayo Campus,228.0
+292,GA875,Sustainable Building Technology - Mayo Campus,173.0
+293,GA877,Business - Mayo Campus,
+294,GA878,Accounting and Financial Management - Mayo Campus,171.0
+295,GA879,Applied Social Care - Mayo Campus,262.0
+296,GA970,Furniture Design and Manufacture - Letterfrack Campus,236.0
+297,GA971,Furniture and Wood Technology - Letterfrack Campus,192.0
+298,GB001,Business,144.0
+299,LY107,Business - Common Entry with Degree Award options,169.0
+300,LY116,Business - Administration IT and Customer Service,136.0
+301,LY206,Sports Studies,137.0
+302,LY207,Law - with Criminal Justice or Spanish or Irish,160.0
+303,LY317,Culinary Arts at Killybegs Co Donegal,178.0
+304,LY327,Hospitality and Tourism Killybegs (Common Entry-Degree Award options),169.0
+305,LY336,Bar and Restaurant Supervision at Killybegs Co Donegal,118.0
+306,LY346,Culinary Arts at Killybegs Co Donegal,116.0
+307,LY406,Photography,
+308,LY427,Digital Film and Video,172.0
+309,LY437,Animation,218.0
+310,LY447,Fashion with Promotion,206.0
+311,LY457,Graphic and Digital Design,180.0
+312,LY507,Quantity Surveying,166.0
+313,LY517,Building Services and Renewable Energy,
+314,LY527,Civil Engineering,176.0
+315,LY547,Architectural Technology,164.0
+316,LY607,Electronic/Computer Engineering,164.0
+317,LY617,Mechanical Engineering,199.0
+318,LY707,Computer Games Development,198.0
+319,LY717,Computing - Common Entry with Degree Award options,165.0
+320,LY737,Computer Security and Digital Forensics,169.0
+321,LY806,Pharmacy Technician,140.0
+322,LY816,Dental Nursing,173.0
+323,LY817,Bioscience,258.0
+324,LY837,Food Science and Nutrition,189.0
+325,LY847,Veterinary Nursing,356.0
+326,LY867,Pharmaceutical and Medicinal Science,163.0
+327,LY877,Agriculture,204.0
+328,LY906,Early Childhood Care Health and Education,109.0
+329,LY916,Health and Social Care,108.0
+330,CI001,Counselling Skills and Psychotherapy Studies (Limerick),152.0
+331,CI002,Counselling Skills and Addiction Studies (Limerick),168.0
+332,CI005,Counselling Skills and Youth Studies (Limerick),171.0
+333,LC111,Design in Fashion and Textiles for Product and Costume (Portfolio),760.0
+334,LC221,Business (Accounting and Finance),252.0
+335,LC222,Business (Marketing and Management),299.0
+336,LC228,Sports Development and Coaching,250.0
+337,LC230,Business Computing,250.0
+338,LC235,Internet Systems Development,213.0
+339,LC244,Sustainable Building and Energy Engineering,298.0
+340,LC251,Civil Engineering,200.0
+341,LC253,Construction,162.0
+342,LC257,Interior Design and Technology,225.0
+343,LC260,Applied Biology,227.0
+344,LC267,Pharmaceutical and Forensic Analysis,279.0
+345,LC268,Medical Technology,233.0
+346,LC270,Music Technology and Production,327.0
+347,LC271,Electrical Engineering,241.0
+348,LC276,Creative Broadcast and Film Production,289.0
+349,LC277,Industrial Automation and Robotic Systems,211.0
+350,LC278,Renewable and Electrical Energy Engineering,215.0
+351,LC279,Electronic Engineering,221.0
+352,LC281,Automobile Technology,198.0
+353,LC283,Precision Engineering,211.0
+354,LC284,Agricultural Mechanisation at Salesian Agricultural College Pallaskenry,189.0
+355,LC285,Mechanical Engineering,236.0
+356,LC286,Road Transport Technology and Management,231.0
+357,LC290,Community Sports Development,201.0
+358,LC296,Hotel Front Office Management,146.0
+359,LC298,Culinary Arts,146.0
+360,LC299,Hospitality Studies,117.0
+361,LC412,Business (Marketing and Management - Thurles),195.0
+362,LC423,Sports Strength and Conditioning (Thurles),234.0
+363,LC425,Environmental and Geographical Sciences (Thurles),246.0
+364,LC428,Environmental Management in Agriculture (Thurles),233.0
+365,LC432,Early Childhood Care and Education (Thurles),144.0
+366,LC504,Creative Media & Design (Clonmel),180.0
+367,LC515,Digital Animation Production (Portfolio - Clonmel),802.0
+368,LC516,Game Art and Design Production (Portfolio - Clonmel),767.0
+369,LC602,Social Care Work (Ennis),311.0
+370,LC603,Early Childhood Care and Education (Ennis),122.0
+371,LM180,Equine Science,301.0
+372,SG101,Business,112.0
+373,SG102,Computing (Undenominated),105.0
+374,SG105,Business in Office Administration,
+375,SG108,Business in Accounting,216.0
+376,SG131,Computing - Games Development,198.0
+377,SG134,Applied Sport with Business,
+378,SG135,Business in Tourism with Event Management,153.0
+379,SG136,Computing - Software Development,207.0
+380,SG137,Computing Networks and Cloud Infrastructure,205.0
+381,SG138,Computing (Undenominated),236.0
+382,SG231,Fine Art,345.0
+383,SG232,Creative Design,206.0
+384,SG235,Performing Arts (Theatre Design),271.0
+385,SG236,Performing Arts (Acting),224.0
+386,SG300,Engineering (Undenominated),189.0
+387,SG301,Civil Engineering,143.0
+388,SG302,Construction Economics,189.0
+389,SG303,Mechanical Engineering,178.0
+390,SG305,Electronic and Computer Engineering,198.0
+391,SG306,Mechatronics,242.0
+392,SG307,Precision Engineering and Design,240.0
+393,SG330,Engineering (Undenominated),250.0
+394,SG331,Interior Architecture and Design,206.0
+395,SG332,Advanced Wood and Sustainable Building Technology,170.0
+396,SG333,Mechanical Engineering,208.0
+397,SG334,Mechatronics,292.0
+398,SG336,Precision Engineering and Design,320.0
+399,SG337,Electronic and Computer Engineering,261.0
+400,SG338,Civil Engineering,196.0
+401,SG339,Quantity Surveying,188.0
+402,SG401,Science,122.0
+403,SG403,Applied Archaeology,214.0
+404,SG431,Pharmaceutical Science with Drug Development,268.0
+405,SG432,Environmental Protection,234.0
+406,SG433,Occupational Safety and Health,226.0
+407,SG434,Human Nutrition,297.0
+408,SG435,Health Science and Physiology,298.0
+409,SG436,Biomedical Science,261.0
+410,SG437,Forensic Investigation and Analysis,240.0
+411,SG438,Applied Archaeology,225.0
+412,SG535,Business Administration,236.0
+413,SG536,Business,188.0
+414,SG537,Marketing and Sales,140.0
+415,SG539,Digital Marketing,182.0
+416,TL605,Business Information Management,225.0
+417,TL620,Culinary Arts,101.0
+418,TL621,Hotel Operations,100.0
+419,TL622,Travel and Tourism Studies,254.0
+420,TL651,Science (Biological and Environmental Studies),232.0
+421,TL652,Pharmacy Technician,258.0
+422,TL710,Computing with Software Development,204.0
+423,TL711,Computing with Games Development,205.0
+424,TL712,Computing with Media Development,278.0
+425,TL715,Computing (Degree Award options),213.0
+426,TL716,Computer Systems and Networking,
+427,TL719,Culinary Arts,273.0
+428,TL720,Travel and Tourism Management,261.0
+429,TL731,Business (Major Specialism in: Accounting or Marketing or Management),212.0
+430,TL744,Agricultural Engineering,251.0
+431,TL745,Civil and Environmental Engineering,280.0
+432,TL747,Engineering in Manufacturing and Mechatronics Engineering,221.0
+433,TL748,Agricultural Science,260.0
+434,TL755,Pharmaceutical Science,244.0
+435,TL758,Animal Bioscience,260.0
+436,TL771,Health and Leisure (Degree Award options),204.0
+437,TL772,Health and Leisure with Massage,219.0
+438,TL780,Early Childhood Care and Education,206.0
+439,TL781,Social Care,208.0
+440,WD003,Business,186.0
+441,WD010,Electronic Engineering,193.0
+442,WD011,Mechanical Engineering,211.0
+443,WD013,Legal Studies,171.0
+444,WD018,Applied Social Studies in Social Care,188.0
+445,WD019,Recreation and Sport Management,180.0
+446,WD040,Building Services Engineering,223.0
+447,WD076,Forestry,215.0
+448,WD094,Architectural Technology,200.0
+449,WD096,Horticulture (Waterford - Kildalton),206.0
+450,WD097,Horticulture (Dublin - National Botanic Gardens),240.0
+451,WD126,Agriculture,367.0
+452,WD139,Civil Engineering,194.0
+453,WD151,Software Systems Development,195.0
+454,WD153,Multimedia Applications Development,186.0
+455,WD155,Information Technology,182.0
+456,WD159,Business,206.0
+457,WD164,Food Science with Business,216.0
+458,WD172,Culinary Arts,161.0
+459,WD173,Hospitality Studies,171.0
+460,WD174,Tourism,
+461,WD175,Pharmaceutical Science,206.0
+462,WD177,Science (Mol. Biology with Biopharm.Food Science with BusinessPharm.),283.0
+463,WD182,Electrical Engineering,189.0
+464,WD184,Retail Management,180.0
+465,WD188,Applied Health Care,242.0
+466,WD205,Molecular Biology with Biopharmaceutical Science,217.0
+467,WD206,Electronic Engineering,175.0
+468,WD207,Mechanical Engineering,182.0
+469,WD208,Manufacturing Engineering,180.0
+470,WD209,Building Services Engineering,220.0
