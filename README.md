@@ -43,7 +43,7 @@ NB Viewer for a static version of the notebook
 
 Binder for a dynamic copy which you can edit if required
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?filepath=pyplot.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?urlpath=pyplot.ipynb)
 ***
 
 ## Explore  
@@ -91,7 +91,8 @@ NB Viewer for a static version of the notebook
 
 Binder for a dynamic copy which you can edit if required
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?labpath=cao.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/FODA2021/HEAD?urlpath=cao.ipynb)
+
 ***
 
 ## Explore  
