@@ -3,4 +3,4 @@ matplotlib
 requests
 datetime
 pandas
-urllib
+urllib.request
